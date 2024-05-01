@@ -1,0 +1,10 @@
+Alice	80
+Bob	79
+Charlie	80
+David	80
+Eve	79
+Frank	80
+Grace	80
+Henry	79
+Ivy	79
+Jack	79

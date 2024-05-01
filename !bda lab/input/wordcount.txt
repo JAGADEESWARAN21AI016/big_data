@@ -1,0 +1,8 @@
+Marvel is a popular comic book publisher.
+DC Comics is another famous comic book publisher.
+Spider-Man is a Marvel superhero.
+Batman is a DC superhero.
+Iron Man is also a Marvel character.
+Superman belongs to DC Comics.
+The Avengers are a team of Marvel superheroes.
+Justice League is a team of DC superheroes.

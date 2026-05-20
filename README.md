@@ -8,8 +8,7 @@ The repository is organized around Hadoop MapReduce lab programs.
   - `WordCount/` – Java MapReduce implementation for word count (`src/main/java/org/wordcount`).
   - `weather/` – Java MapReduce implementation for weather aggregation (`src/main/java/org/weather`).
   - `student_grade/` – Java MapReduce implementation for student grading (`src/main/java/org/student_grade`).
-  - `MartixMul/` – Java MapReduce implementation for matrix multiplication (`src/main/java/org/matrixmulti`).  
-    *(Folder is named `MartixMul` in the repository.)*
+  - MatrixMul – Java MapReduce implementation for matrix multiplication (`src/main/java/org/matrixmulti`), located in `MartixMul/`.
 - `/!bda lab/input/` – sample input datasets used by the MapReduce jobs.
 - `/!bda lab/output/` – sample/generated output files from executed jobs.
 - `/!bda lab/jar files/` – built runnable JAR artifacts for the four jobs.
